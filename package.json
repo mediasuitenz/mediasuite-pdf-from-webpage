@@ -1,0 +1,19 @@
+{
+  "name": "mediasuite-pdf-from-webpage",
+  "version": "0.0.1",
+  "description": "Visits a web page and captures it as a pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Media Suite",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "2.10.0",
+    "nightmare-webrequest-addon": "1.0.0",
+    "shortid": "2.2.8"
+  }
+}
